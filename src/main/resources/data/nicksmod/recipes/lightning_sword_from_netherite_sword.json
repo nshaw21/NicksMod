@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    " e ",
+    "e e",
+    " e "
+  ],
+  "key": {
+    "e": {
+      "item": "nicksmod:lightning_essence"
+    }
+  },
+  "result": {
+    "item": "nicksmod:lightning_sword"
+  }
+}
